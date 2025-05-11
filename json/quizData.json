@@ -1,0 +1,105 @@
+{
+    "name": "AP World History Quiz",
+    "questions": {
+        "1": {
+            "question": "Which of the following was a major factor in the rise of trade networks in the period 1200-1450?",
+            "options": {
+                "a": "The decline of the Mongol Empire",
+                "b": "The expansion of maritime technology",
+                "c": "The isolation of the Americas",
+                "d": "The fall of Constantinople"
+            },
+            "correct": "b"
+        },
+        "2": {
+            "question": "The spread of Islam during the period 1200-1450 primarily occurred through:",
+            "options": {
+                "a": "Military conquest and trade",
+                "b": "Diplomatic treaties",
+                "c": "Environmental factors",
+                "d": "Agricultural innovations"
+            },
+            "correct": "a"
+        },
+        "3": {
+            "question": "Which of the following best describes the political structure of the Mongol Empire?",
+            "options": {
+                "a": "A democratic assembly of tribes",
+                "b": "A centralized bureaucratic government",
+                "c": "A loose confederation of clans",
+                "d": "A theocratic state"
+            },
+            "correct": "c"
+        },
+        "4": {
+            "question": "What was one significant effect of the Black Death in the 14th century?",
+            "options": {
+                "a": "Increased power of the nobility",
+                "b": "A shift towards feudalism",
+                "c": "Labor shortages leading to higher wages",
+                "d": "Enhanced trade routes in Asia"
+            },
+            "correct": "c"
+        },
+        "5": {
+            "question": "The spread of technologies such as the compass and gunpowder in this period was primarily facilitated by:",
+            "options": {
+                "a": "Agricultural advancements",
+                "b": "Increased urbanization",
+                "c": "Interactions along trade routes",
+                "d": "Religious missions"
+            },
+            "correct": "c"
+        },
+        "6": {
+            "question": "Which of the following best describes the role of women in medieval European society during 1200-1450?",
+            "options": {
+                "a": "Women had equal rights to men in land ownership",
+                "b": "Women were mainly confined to domestic roles",
+                "c": "Women played a significant role in governance",
+                "d": "Women were the primary labor force in agriculture"
+            },
+            "correct": "b"
+        },
+        "7": {
+            "question": "The Song Dynasty in China is known for its:",
+            "options": {
+                "a": "Development of a bureaucratic state",
+                "b": "Expansion of the Mongol Empire",
+                "c": "Strict feudal system",
+                "d": "Isolation from global trade"
+            },
+            "correct": "a"
+        },
+        "8": {
+            "question": "Which of the following was a major consequence of the Crusades?",
+            "options": {
+                "a": "The unification of Western Europe",
+                "b": "Increased trade and cultural exchanges between Europe and the East",
+                "c": "The establishment of feudalism",
+                "d": "The decline of the Catholic Church's influence"
+            },
+            "correct": "b"
+        },
+        "9": {
+            "question": "What was the primary purpose of the Inca road system?",
+            "options": {
+                "a": "To facilitate trade between cities",
+                "b": "To enhance military movement and communication",
+                "c": "To isolate different regions",
+                "d": "To connect religious sites"
+            },
+            "correct": "b"
+        },
+        "10": {
+            "question": "Which of the following empires was known for its extensive tribute system?",
+            "options": {
+                "a": "The Ottoman Empire",
+                "b": "The Byzantine Empire",
+                "c": "The Aztec Empire",
+                "d": "The Ming Dynasty"
+            },
+            "correct": "c"
+        }
+    }
+}
