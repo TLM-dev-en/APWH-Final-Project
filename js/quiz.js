@@ -3,7 +3,7 @@ let page = 1;
 let userAnswers = {};
 let correctAnswers = {};
 
-fetch('https://raw.githubusercontent.com/TLM-dev-en/APWH-Final-Project/refs/heads/main/json/quizData.json')
+fetch('../json/quizData.json')
     .then(response => response.json())
     .then(quizData => {
         questions = quizData.questions; // Store questions in the global scope
