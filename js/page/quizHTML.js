@@ -50,7 +50,7 @@ function renderPage(pageNum) {
 
     pageTitle.textContent = quizTitle;
 
-    questionHeader.textContent = `Q - ${pageNum}`;
+    questionHeader.textContent = `Question - ${pageNum} / ${quizLength}`;
     questionText.textContent = quizQuestions[pageNum].question; // Correct access
 
     for (const optionKey in quizQuestions[pageNum].options) {

@@ -2,202 +2,402 @@
     "name": "AP World History Quiz",
     "questions": {
         "1": {
-            "question": "Which of the following was a major factor in the rise of trade networks in the period 1200-1450?",
+            "question": "Which of the following best describes the role of the Mongol Empire in Eurasian trade during the 13th and 14th centuries?",
             "options": {
-                "a": "The decline of the Mongol Empire",
-                "b": "The expansion of maritime technology",
-                "c": "The isolation of the Americas",
-                "d": "The fall of Constantinople"
+                "a": "They isolated trade routes to prevent the spread of the Black Death",
+                "b": "They disrupted traditional trade networks through excessive taxation",
+                "c": "They facilitated and protected trade along the Silk Roads",
+                "d": "They discouraged long-distance commerce in favor of local exchange"
+            },
+            "correct": "c"
+        },
+        "2": {
+            "question": "The expansion of the Mali Empire in West Africa was most directly facilitated by:",
+            "options": {
+                "a": "The introduction of gunpowder weaponry by European traders",
+                "b": "The control of trans-Saharan trade routes, especially in gold and salt",
+                "c": "The forced conversion of local populations to Christianity",
+                "d": "The suppression of nomadic Berber tribes"
             },
             "correct": "b"
         },
-        "2": {
-            "question": "The spread of Islam during the period 1200-1450 primarily occurred through:",
-            "options": {
-                "a": "Military conquest and trade",
-                "b": "Diplomatic treaties",
-                "c": "Environmental factors",
-                "d": "Agricultural innovations"
-            },
-            "correct": "a"
-        },
         "3": {
-            "question": "Which of the following best describes the political structure of the Mongol Empire?",
+            "question": "The Delhi Sultanate’s success in consolidating power in India was primarily due to:",
             "options": {
-                "a": "A democratic assembly of tribes",
-                "b": "A centralized bureaucratic government",
-                "c": "A loose confederation of clans",
-                "d": "A theocratic state"
+                "a": "The establishment of Hindu-majority rule",
+                "b": "Their control of Indian Ocean trade routes",
+                "c": "The use of a centralized bureaucratic system and military force",
+                "d": "Alliances with Mongol khanates"
             },
             "correct": "c"
         },
         "4": {
-            "question": "What was one significant effect of the Black Death in the 14th century?",
+            "question": "The spread of Islam between 1200 and 1450 was facilitated most effectively through:",
             "options": {
-                "a": "Increased power of the nobility",
-                "b": "A shift towards feudalism",
-                "c": "Labor shortages leading to higher wages",
-                "d": "Enhanced trade routes in Asia"
+                "a": "Crusader campaigns in the Holy Land",
+                "b": "Forced conversions during Mongol invasions",
+                "c": "Commercial activity and Sufi missionary work",
+                "d": "Maritime conquests of the Abbasid navy"
             },
             "correct": "c"
         },
         "5": {
-            "question": "The spread of technologies such as the compass and gunpowder in this period was primarily facilitated by:",
+            "question": "Which innovation contributed most to the expansion of trade in the Indian Ocean during this period?",
             "options": {
-                "a": "Agricultural advancements",
-                "b": "Increased urbanization",
-                "c": "Interactions along trade routes",
-                "d": "Religious missions"
-            },
-            "correct": "c"
-        },
-        "6": {
-            "question": "Which of the following best describes the role of women in medieval European society during 1200-1450?",
-            "options": {
-                "a": "Women had equal rights to men in land ownership",
-                "b": "Women were mainly confined to domestic roles",
-                "c": "Women played a significant role in governance",
-                "d": "Women were the primary labor force in agriculture"
+                "a": "Stirrup",
+                "b": "Compass",
+                "c": "Gunpowder",
+                "d": "Movable type"
             },
             "correct": "b"
         },
-        "7": {
-            "question": "The Song Dynasty in China is known for its:",
+        "6": {
+            "question": "Which best explains the significance of the Aztec tribute system?",
             "options": {
-                "a": "Development of a bureaucratic state",
-                "b": "Expansion of the Mongol Empire",
-                "c": "Strict feudal system",
-                "d": "Isolation from global trade"
+                "a": "It weakened Aztec rule by causing peasant revolts",
+                "b": "It reduced the empire’s dependence on trade",
+                "c": "It ensured economic and political dominance over conquered peoples",
+                "d": "It fostered agricultural innovation throughout the empire"
             },
-            "correct": "a"
+            "correct": "c"
+        },
+        "7": {
+            "question": "In comparison to European feudalism, Japanese feudalism between 1200 and 1450 was:",
+            "options": {
+                "a": "More centralized under imperial authority",
+                "b": "Less reliant on the warrior class",
+                "c": "Based on Confucian principles of civil service",
+                "d": "Similar in its hierarchical and land-based nature"
+            },
+            "correct": "d"
         },
         "8": {
-            "question": "Which of the following was a major consequence of the Crusades?",
+            "question": "Which factor contributed most to the decline of cities like Baghdad and Chang’an in the postclassical period?",
             "options": {
-                "a": "The unification of Western Europe",
-                "b": "Increased trade and cultural exchanges between Europe and the East",
-                "c": "The establishment of feudalism",
-                "d": "The decline of the Catholic Church's influence"
+                "a": "Economic competition from American trade routes",
+                "b": "Political instability and Mongol invasions",
+                "c": "Decline in agricultural production due to climate change",
+                "d": "Rise of Western European industrial centers"
             },
             "correct": "b"
         },
         "9": {
-            "question": "What was the primary purpose of the Inca road system?",
+            "question": "The spread of paper-making technology from China to the Islamic world and then to Europe is an example of:",
             "options": {
-                "a": "To facilitate trade between cities",
-                "b": "To enhance military movement and communication",
-                "c": "To isolate different regions",
-                "d": "To connect religious sites"
+                "a": "Syncretism",
+                "b": "Cultural diffusion",
+                "c": "Agricultural revolution",
+                "d": "Biological exchange"
             },
             "correct": "b"
         },
         "10": {
-            "question": "Which of the following empires was known for its extensive tribute system?",
+            "question": "The feudal systems of Europe and Japan during this period both relied heavily on:",
             "options": {
-                "a": "The Ottoman Empire",
-                "b": "The Byzantine Empire",
-                "c": "The Aztec Empire",
-                "d": "The Ming Dynasty"
+                "a": "Urban commercial elites",
+                "b": "Codified legal codes",
+                "c": "The loyalty of vassals to landholding elites",
+                "d": "Centralized tax bureaucracies"
             },
             "correct": "c"
         },
         "11": {
-            "question": "Which of the following was a significant consequence of the Columbian Exchange?",
+            "question": "The Columbian Exchange most directly led to:",
             "options": {
-                "a": "Decline of European population",
-                "b": "Introduction of new crops to Europe",
-                "c": "Isolation of the Americas",
-                "d": "End of transatlantic trade"
+                "a": "A decline in European population due to disease",
+                "b": "A demographic catastrophe for Native American populations",
+                "c": "The collapse of the Atlantic slave trade",
+                "d": "The rise of egalitarian societies in the Americas"
             },
             "correct": "b"
         },
         "12": {
-            "question": "What was a primary reason for the rise of the Atlantic slave trade during the 16th to 18th centuries?",
+            "question": "The encomienda system in Spanish America most closely resembled:",
             "options": {
-                "a": "Decline of indigenous populations in the Americas",
-                "b": "Increased agricultural demands in Europe",
-                "c": "Technological advancements in navigation",
-                "d": "Growth of the Catholic Church's influence"
+                "a": "A free market economy",
+                "b": "Feudal labor obligations",
+                "c": "Industrial wage labor",
+                "d": "An egalitarian commune"
             },
-            "correct": "a"
+            "correct": "b"
         },
         "13": {
-            "question": "Which of the following best describes the political structure of the Ottoman Empire?",
+            "question": "Which was a major effect of silver mining in Spanish colonies during this period?",
             "options": {
-                "a": "Absolute monarchy with a centralized bureaucracy",
-                "b": "Democratic republic with elected officials",
-                "c": "Feudal system with local lords in charge",
-                "d": "Theocratic state led by religious leaders"
+                "a": "The elimination of serfdom in Europe",
+                "b": "The rapid industrialization of the Americas",
+                "c": "The integration of global economies via Asian markets",
+                "d": "The weakening of Chinese dynasties"
             },
-            "correct": "a"
+            "correct": "c"
         },
         "14": {
-            "question": "What was the primary purpose of the Spanish encomienda system?",
+            "question": "The development of maritime empires by European states was aided most directly by:",
             "options": {
-                "a": "To promote religious conversion",
-                "b": "To extract labor and tribute from indigenous peoples",
-                "c": "To establish trade relations with Africa",
-                "d": "To create agricultural innovations"
+                "a": "Mongol trade routes",
+                "b": "Advances in shipbuilding and navigation",
+                "c": "Agricultural surplus in Western Europe",
+                "d": "The decline of the Catholic Church’s power"
             },
             "correct": "b"
         },
         "15": {
-            "question": "Which of the following inventions was crucial for the spread of information during the Renaissance?",
+            "question": "Which empire practiced a policy of religious tolerance that allowed it to rule over diverse populations?",
             "options": {
-                "a": "The telescope",
-                "b": "The printing press",
-                "c": "The compass",
-                "d": "The steam engine"
+                "a": "Tokugawa Japan",
+                "b": "Spanish Empire",
+                "c": "Mughal Empire under Akbar",
+                "d": "Aztec Empire"
             },
-            "correct": "b"
+            "correct": "c"
         },
         "16": {
-            "question": "The Treaty of Tordesillas (1494) was significant because it:",
+            "question": "The most significant cause of the rise of African slavery in the Americas was:",
             "options": {
-                "a": "Ended the Thirty Years' War",
-                "b": "Divided the New World between Spain and Portugal",
-                "c": "Established trade routes in the Indian Ocean",
-                "d": "Created the first global currency"
+                "a": "The demand for labor on sugar plantations",
+                "b": "The influence of African tribal leaders",
+                "c": "The lack of other labor sources in Europe",
+                "d": "The collapse of Asian spice trade routes"
             },
-            "correct": "b"
+            "correct": "a"
         },
         "17": {
-            "question": "Which of the following best describes the impact of the Enlightenment on Europe?",
+            "question": "Which of the following best characterizes mercantilism?",
             "options": {
-                "a": "Strengthening of absolute monarchies",
-                "b": "Emphasis on reason and individual rights",
-                "c": "Decline in scientific inquiry",
-                "d": "Reinforcement of traditional social hierarchies"
+                "a": "Emphasis on free trade and market liberalism",
+                "b": "Prioritization of domestic consumption over export",
+                "c": "Government control over trade to accumulate wealth",
+                "d": "Abolition of tariffs between colonies and metropoles"
             },
-            "correct": "b"
+            "correct": "c"
         },
         "18": {
-            "question": "What was a major cause of the scientific revolution in Europe during the 16th and 17th centuries?",
+            "question": "The Tokugawa Shogunate’s policy of sakoku (isolation) was a response to:",
             "options": {
-                "a": "Increased reliance on religious teachings",
-                "b": "Exploration and interaction with other cultures",
-                "c": "The establishment of feudalism",
-                "d": "Decline of literacy rates"
+                "a": "Internal demands for industrialization",
+                "b": "Fear of Christian influence and foreign domination",
+                "c": "Mongol invasions of the Japanese mainland",
+                "d": "Declining agricultural output in rural Japan"
             },
             "correct": "b"
         },
         "19": {
-            "question": "Which empire is known for its extensive trade networks and cultural exchanges during this period?",
+            "question": "The most common justification for European colonization efforts was:",
             "options": {
-                "a": "The Mughal Empire",
-                "b": "The Roman Empire",
-                "c": "The Byzantine Empire",
-                "d": "The Ming Dynasty"
+                "a": "Defense against Islamic empires",
+                "b": "Expansion of democratic values",
+                "c": "The spread of Christianity and 'civilization'",
+                "d": "Suppression of Protestant reformers"
             },
-            "correct": "a"
+            "correct": "c"
         },
         "20": {
-            "question": "Which of the following events marked the beginning of the Protestant Reformation?",
+            "question": "Which of the following regions saw the rise of a syncretic culture combining African, European, and indigenous traditions?",
             "options": {
-                "a": "The Council of Trent",
-                "b": "Martin Luther's Ninety-Five Theses",
-                "c": "The Edict of Nantes",
-                "d": "The establishment of the Anglican Church"
+                "a": "Ming China",
+                "b": "New England",
+                "c": "Caribbean",
+                "d": "Ottoman Balkans"
+            },
+            "correct": "c"
+        },
+        "21": {
+            "question": "The primary cause of the Industrial Revolution in Britain was:",
+            "options": {
+                "a": "The decline of guild systems",
+                "b": "Access to coal and waterways",
+                "c": "A highly educated population",
+                "d": "Widespread slave labor"
+            },
+            "correct": "b"
+        },
+        "22": {
+            "question": "The Haitian Revolution was unique among Atlantic revolutions because it:",
+            "options": {
+                "a": "Was led by monarchists",
+                "b": "Resulted in a successful slave revolt",
+                "c": "Established a constitutional monarchy",
+                "d": "Was supported by France"
+            },
+            "correct": "b"
+        },
+        "23": {
+            "question": "The Meiji Restoration in Japan is best understood as a:",
+            "options": {
+                "a": "Return to feudal traditions",
+                "b": "Reaction against Western industrial models",
+                "c": "State-sponsored modernization and westernization",
+                "d": "Shift toward democratic socialism"
+            },
+            "correct": "c"
+        },
+        "24": {
+            "question": "Karl Marx argued that historical change was driven primarily by:",
+            "options": {
+                "a": "Nationalism and ethnicity",
+                "b": "Religious ideology",
+                "c": "Conflicts between social classes",
+                "d": "Technological innovation"
+            },
+            "correct": "c"
+        },
+        "25": {
+            "question": "Which of the following best explains the rise of nationalism in the 19th century?",
+            "options": {
+                "a": "The decline of monarchies",
+                "b": "Industrialization of the peasantry",
+                "c": "Enlightenment ideals and revolutionary movements",
+                "d": "Decline of trade unions"
+            },
+            "correct": "c"
+        },
+        "26": {
+            "question": "One major consequence of the Opium Wars was:",
+            "options": {
+                "a": "The end of British imperialism",
+                "b": "The Boxer Rebellion",
+                "c": "The imposition of unequal treaties on China",
+                "d": "The rise of the Tokugawa Shogunate"
+            },
+            "correct": "c"
+        },
+        "27": {
+            "question": "The Berlin Conference (1884–85) most directly resulted in:",
+            "options": {
+                "a": "The abolition of African slavery",
+                "b": "The decolonization of Africa",
+                "c": "The partition of Africa among European powers",
+                "d": "A pan-African economic union"
+            },
+            "correct": "c"
+        },
+        "28": {
+            "question": "Which of the following was a common response to imperialism in colonized societies?",
+            "options": {
+                "a": "Immediate industrialization",
+                "b": "Passive acceptance of Western rule",
+                "c": "Armed resistance and nationalist movements",
+                "d": "Mass migration to Europe"
+            },
+            "correct": "c"
+        },
+        "29": {
+            "question": "The Tanzimat reforms in the Ottoman Empire were intended to:",
+            "options": {
+                "a": "Restore traditional Islamic governance",
+                "b": "Promote socialism in Anatolia",
+                "c": "Modernize the military and administration",
+                "d": "Isolate the empire from European influence"
+            },
+            "correct": "c"
+        },
+        "30": {
+            "question": "Which ideology most directly challenged traditional monarchies during this period?",
+            "options": {
+                "a": "Conservatism",
+                "b": "Liberalism",
+                "c": "Mercantilism",
+                "d": "Absolutism"
+            },
+            "correct": "b"
+        },
+        "31": {
+            "question": "Which of the following most directly caused World War I?",
+            "options": {
+                "a": "The rise of fascist governments",
+                "b": "The collapse of the Ottoman Empire",
+                "c": "Entangling alliances and nationalist tensions",
+                "d": "Economic depression in Western Europe"
+            },
+            "correct": "c"
+        },
+        "32": {
+            "question": "The Russian Revolution of 1917 resulted primarily from:",
+            "options": {
+                "a": "The invasion of Russia by Germany",
+                "b": "Russia’s failure to industrialize",
+                "c": "Military defeats and economic hardship",
+                "d": "The spread of Western liberalism"
+            },
+            "correct": "c"
+        },
+        "33": {
+            "question": "The policy of nonalignment during the Cold War was most often adopted by:",
+            "options": {
+                "a": "Western European countries",
+                "b": "Communist bloc countries",
+                "c": "Newly independent states in Asia and Africa",
+                "d": "NATO member states"
+            },
+            "correct": "c"
+        },
+        "34": {
+            "question": "The Green Revolution most directly impacted:",
+            "options": {
+                "a": "Urbanization in the Global North",
+                "b": "Industrial pollution in the Soviet Union",
+                "c": "Agricultural output in developing nations",
+                "d": "Deforestation in Europe"
+            },
+            "correct": "c"
+        },
+        "35": {
+            "question": "Which of the following best explains the rise of decolonization movements after WWII?",
+            "options": {
+                "a": "European nations encouraged independence",
+                "b": "The collapse of the United Nations",
+                "c": "Anti-imperialist ideologies and weakened colonial powers",
+                "d": "Rapid industrialization of colonies"
+            },
+            "correct": "c"
+        },
+        "36": {
+            "question": "The Iranian Revolution of 1979 was a reaction primarily against:",
+            "options": {
+                "a": "U.S. military invasion",
+                "b": "Secular authoritarian rule",
+                "c": "Communist economic policies",
+                "d": "Ottoman domination"
+            },
+            "correct": "b"
+        },
+        "37": {
+            "question": "One major consequence of globalization in the late 20th century was:",
+            "options": {
+                "a": "The rise of isolationist trade policies",
+                "b": "The equal distribution of wealth globally",
+                "c": "Increased interconnectivity and economic interdependence",
+                "d": "The collapse of capitalist economies"
+            },
+            "correct": "c"
+        },
+        "38": {
+            "question": "The 20th-century genocides in Rwanda and Bosnia are most directly examples of:",
+            "options": {
+                "a": "Religious warfare",
+                "b": "Ethnic cleansing",
+                "c": "Political assassination",
+                "d": "Civil disobedience"
+            },
+            "correct": "b"
+        },
+        "39": {
+            "question": "Which development in China most reflects a shift toward capitalist principles after 1978?",
+            "options": {
+                "a": "The Cultural Revolution",
+                "b": "The Tiananmen Square protests",
+                "c": "Deng Xiaoping’s economic reforms",
+                "d": "The Great Leap Forward"
+            },
+            "correct": "c"
+        },
+        "40": {
+            "question": "Which of the following has most influenced transnational social movements since 1990?",
+            "options": {
+                "a": "The fall of the Berlin Wall",
+                "b": "The spread of the internet and social media",
+                "c": "The rise of feudal governments",
+                "d": "The dominance of manufacturing in Europe"
             },
             "correct": "b"
         }

@@ -48,7 +48,7 @@
     background-color: #5cb85c; /* Success color */
     width: 0; /* Will be updated by JavaScript */
 
-    animation: smooth-show-score 1s ease-in-out forwards;
+    animation: smooth-show-score 2s ease-in-out forwards;
 
 }
 
@@ -57,7 +57,7 @@
         width: 0;
     }
     100% {
-        width: 5%;
+        width: var(--width);
     }
 
 }
