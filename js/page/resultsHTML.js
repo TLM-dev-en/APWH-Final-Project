@@ -7,7 +7,7 @@ const scorePercentile = document.getElementById('score-percentile')
 
 let quizLength;
 
-parseJSON('../../json/quizData.json')
+parseJSON('../json/quizData.json')
   .then(data => {
     // Access the data here:
     quizLength = data.quizLength;

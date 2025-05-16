@@ -4,7 +4,7 @@ import darkModeLogic from "../theming/darkMode.js";
 
 let quizQuestions, quizTitle, quizLength;
 
-parseJSON('../../json/quizData.json')
+parseJSON('../json/quizData.json')
   .then(data => {
     // Access the data here:
     quizQuestions = data.quizQuestions;
