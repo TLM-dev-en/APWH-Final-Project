@@ -1,110 +1,57 @@
-html {
-    font-family: Arial, Helvetica, sans-serif;
-}
+/* index.css */
 
-body {
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    background-size: 425% 425%;
-    animation: gradient 50s ease infinite;
-    height: 100vh;
+#container {
     display: flex;
     flex-direction: column;
-}
-
-/* Keyframes */
-@keyframes gradient {
-    0% {
-        background-position: 0% 50%;
-    }
-    50% {
-        background-position: 100% 50%;
-    }
-    100% {
-        background-position: 0% 50%;
-    }
-}
-
-.container {
-    align-items: center;
-    color: antiquewhite;
-    text-align: center;
-}
-
-.inner-widget {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-
-    max-width: 640px;
-    
-    margin: auto;
-    margin-top: 40px;
-
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-left: 35px;
-    padding-right: 35px;
-
-    background-color: rgba(0, 0, 0, 0.25);
-    border-radius: 30px;
-}
-
-h1 {
-    color: antiquewhite;
-    font-size: 72px;
-}
-
-h2 {
-    color: antiquewhite;
-    font-size: 48px;
-}
-
-h3 {
-    color: antiquewhite;
-    font-size: 36px;
-}
-
-
-p {
-    color: antiquewhite;
-    font-size: 24px;
-    text-align: left;
-}
-
-table {
-    border-collapse: collapse;
     align-self: center;
-    width: 80%;
+    margin: 20px; /* Added margin for spacing */
+    min-width: 500px;
+    max-width: 800px;
+    padding: 35px;
+    padding-top: 5px;
+    box-shadow: 60px, -16px, black;
+    border-radius: 20px;
+    background-color: inherit;
 }
 
-th {
-    color: antiquewhite;
+.start-button:hover {
+    background-color: #0056b3;
+}
+
+.question-text {
     font-size: 24px;
-    padding: 10px;
 }
 
-td {
-    color: antiquewhite;
-    font-size: 18px;
-    font-style: italic;
+#footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 
-    padding: 10px;
-    
+    position: absolute;
+    bottom: 20px;
+    margin-bottom: 20px;
+
+    width: 100vw;
+    height: max-content;
 }
 
-button {
+.start-button {
     font-size: 24px;
     font-weight: bold;
-    color: antiquewhite;
-
-    padding: 20px;
+    left: 50%;
+    background: none;
+    border: none;
     margin: auto;
-    margin-top: 30px;
 
-    align-self: center;
-    max-width: fit-content;
+    text-align: center;
 
-    background-color: rgba(0, 0, 0, 0.25);
-    border: transparent;
-    border-radius: 30px;
+    color: inherit;
+
+    transition: transform 0.2s ease;
+}
+
+.start-button:active {
+
+    transform: translate(0, 6px);
 }

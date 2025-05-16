@@ -1,0 +1,113 @@
+:root {
+    --bg-gradient-angle: -45deg;
+
+    /* Light Theme Colors */
+    --bg-gradient-light-one: #ee7752;
+    --bg-gradient-light-two: #e73c7e;
+    --bg-gradient-light-three: #23a6d5;
+    --bg-gradient-light-four: #23d5ab;
+
+    --background-color-light: antiquewhite;
+    --color-light: antiquewhite;
+    --border-color-light: black;
+
+    --button-color-active: #BDDDFC;
+
+    /* Dark Theme Colors */
+    --bg-gradient-dark-one: #0f3f87;
+    --bg-gradient-dark-two: #22238d;
+    --bg-gradient-dark-three: #27145f;
+    --bg-gradient-dark-four: #290050;
+
+    --background-color-dark: black;
+    --color-dark: black;
+    --border-color-dark: antiquewhite;
+
+    --button-color-active: #384959;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+body {
+    background: linear-gradient(
+        var(--bg-gradient-angle),
+        var(--bg-gradient-light-one),
+        var(--bg-gradient-light-two),
+        var(--bg-gradient-light-three),
+        var(--bg-gradient-light-four)
+    );
+
+    background-size: 425% 425%;
+    animation: gradient 50s ease infinite;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+    border-color: var(--border-color-light);
+    color: var(--color-dark);
+    background-color: var(--background-color-light);
+
+}
+
+body.dark-mode {
+        background: linear-gradient(
+        var(--bg-gradient-angle),
+        var(--bg-gradient-dark-one),
+        var(--bg-gradient-dark-two),
+        var(--bg-gradient-dark-three),
+        var(--bg-gradient-dark-four)
+    );
+
+    border-color: var(--border-color-dark);
+    color: var(--color-light);
+    background-color: var(--background-color-dark);
+}
+
+#top-bar {
+    display: flex;
+    flex-direction: row;
+}
+
+.quiz-title {
+    font-size: 60px;
+    position: relative;
+    margin: 40px; /* Added margin for spacing */
+    text-align: left;
+}
+
+/* Keyframes */
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+#dark-mode-button {
+    font-size: 24px;
+    background: none;
+    border: none;
+
+    padding: 20px;
+    margin: 20px;
+
+    position: fixed;
+    right: 20px;
+
+    font-weight: bolder;
+    color: inherit;
+
+    transition: transform 0.2s ease;
+}
+
+#dark-mode-button:active {
+    transform: translate(0px, 6px);
+}

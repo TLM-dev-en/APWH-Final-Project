@@ -1,17 +1,3 @@
-/* Global Styles */
-html {
-    font-family: Arial, Helvetica, sans-serif;
-    overflow: hidden;
-}
-
-body {
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    background-size: 425% 425%;
-    animation: gradient 50s ease infinite;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-}
 
 /* Keyframes */
 @keyframes gradient {
@@ -26,15 +12,11 @@ body {
     }
 }
 
-#top-bar {
-    display: flex;
-    flex-direction: row;
-}
+
 
 /* Quiz Title */
 .quiz-title {
     font-size: 60px;
-    color: antiquewhite;
     position: relative;
     margin: 40px; /* Added margin for spacing */
     text-align: left;
@@ -50,13 +32,13 @@ body {
     max-width: 800px;
     padding: 35px;
     padding-top: 5px;
-    background-color: antiquewhite;
     box-shadow: 60px, -16px, black;
     border-radius: 20px;
+    background-color: inherit;
 }
 
 /* Question Header */
-.question-header {
+#question-header {
     font-size: 48px;
 }
 
@@ -66,7 +48,7 @@ body {
 }
 
 /* Answer Options */
-.answer-options {
+#answer-options {
     display: flex;
     flex-direction: column; /* Stack items vertically */
 }
@@ -80,37 +62,56 @@ body {
     margin-top: 10px;
     background-color: transparent;
     border-style: solid;
-    border-color: black;
     border-radius: 10px;
     transition: transform 0.2s ease;
+    color: inherit;
+    border-color: inherit;
+
+    max-width: 100vw;
 }
 
 .answer-button:active {
     transform: translate(0px, 6px);
 }
 
+.answer-button.selected {
+    background-color: aquamarine;
+}
+
+#footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    position: absolute;
+    bottom: 20px;
+    margin-bottom: 20px;
+
+    width: 100vw;
+    height: max-content;
+}
+
 /* Navigation Buttons */
 .back-button, .next-button {
-    position: fixed;
-    padding: 10px;
-    margin: auto;
-    margin-top: 30px;
     font-size: 40px;
     font-weight: bolder;
     transition: transform 0.2s ease;
 
-    color: antiquewhite;
     background-color: transparent;
-    border-color: transparent;
+    border-color: transparent; 
 
-    bottom: 20px;
+    color: inherit;
+
 }
 
 .back-button {
+    position: absolute;
     left: 20px;
 }
 
 .next-button {
+    position: absolute;
     right: 20px;
 }
 
@@ -121,4 +122,24 @@ body {
 
 .next-button:active {
     transform: translate(6px, 6px);
+}
+
+#submit-button {
+    font-size: 24px;
+    font-weight: bold;
+    left: 50%;
+    background: none;
+    border: none;
+    margin: auto;
+
+    text-align: center;
+
+    color: inherit;
+
+    transition: transform 0.2s ease;
+}
+
+#submit-button:active {
+
+    transform: translate(0, 6px);
 }

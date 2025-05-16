@@ -100,6 +100,106 @@
                 "d": "The Ming Dynasty"
             },
             "correct": "c"
+        },
+        "11": {
+            "question": "Which of the following was a significant consequence of the Columbian Exchange?",
+            "options": {
+                "a": "Decline of European population",
+                "b": "Introduction of new crops to Europe",
+                "c": "Isolation of the Americas",
+                "d": "End of transatlantic trade"
+            },
+            "correct": "b"
+        },
+        "12": {
+            "question": "What was a primary reason for the rise of the Atlantic slave trade during the 16th to 18th centuries?",
+            "options": {
+                "a": "Decline of indigenous populations in the Americas",
+                "b": "Increased agricultural demands in Europe",
+                "c": "Technological advancements in navigation",
+                "d": "Growth of the Catholic Church's influence"
+            },
+            "correct": "a"
+        },
+        "13": {
+            "question": "Which of the following best describes the political structure of the Ottoman Empire?",
+            "options": {
+                "a": "Absolute monarchy with a centralized bureaucracy",
+                "b": "Democratic republic with elected officials",
+                "c": "Feudal system with local lords in charge",
+                "d": "Theocratic state led by religious leaders"
+            },
+            "correct": "a"
+        },
+        "14": {
+            "question": "What was the primary purpose of the Spanish encomienda system?",
+            "options": {
+                "a": "To promote religious conversion",
+                "b": "To extract labor and tribute from indigenous peoples",
+                "c": "To establish trade relations with Africa",
+                "d": "To create agricultural innovations"
+            },
+            "correct": "b"
+        },
+        "15": {
+            "question": "Which of the following inventions was crucial for the spread of information during the Renaissance?",
+            "options": {
+                "a": "The telescope",
+                "b": "The printing press",
+                "c": "The compass",
+                "d": "The steam engine"
+            },
+            "correct": "b"
+        },
+        "16": {
+            "question": "The Treaty of Tordesillas (1494) was significant because it:",
+            "options": {
+                "a": "Ended the Thirty Years' War",
+                "b": "Divided the New World between Spain and Portugal",
+                "c": "Established trade routes in the Indian Ocean",
+                "d": "Created the first global currency"
+            },
+            "correct": "b"
+        },
+        "17": {
+            "question": "Which of the following best describes the impact of the Enlightenment on Europe?",
+            "options": {
+                "a": "Strengthening of absolute monarchies",
+                "b": "Emphasis on reason and individual rights",
+                "c": "Decline in scientific inquiry",
+                "d": "Reinforcement of traditional social hierarchies"
+            },
+            "correct": "b"
+        },
+        "18": {
+            "question": "What was a major cause of the scientific revolution in Europe during the 16th and 17th centuries?",
+            "options": {
+                "a": "Increased reliance on religious teachings",
+                "b": "Exploration and interaction with other cultures",
+                "c": "The establishment of feudalism",
+                "d": "Decline of literacy rates"
+            },
+            "correct": "b"
+        },
+        "19": {
+            "question": "Which empire is known for its extensive trade networks and cultural exchanges during this period?",
+            "options": {
+                "a": "The Mughal Empire",
+                "b": "The Roman Empire",
+                "c": "The Byzantine Empire",
+                "d": "The Ming Dynasty"
+            },
+            "correct": "a"
+        },
+        "20": {
+            "question": "Which of the following events marked the beginning of the Protestant Reformation?",
+            "options": {
+                "a": "The Council of Trent",
+                "b": "Martin Luther's Ninety-Five Theses",
+                "c": "The Edict of Nantes",
+                "d": "The establishment of the Anglican Church"
+            },
+            "correct": "b"
         }
     }
 }

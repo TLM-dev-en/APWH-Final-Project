@@ -1,55 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>Online Quiz Game</title>
-        <link rel="stylesheet" href="css/indexPage.css">
-    </head>
-    <body>
-        <div class="container">
-            <h1>Online Quiz Game</h1>
-            <div class="inner-widget">
-                <h2>AP World History Quiz</h2>
-                <p>The quiz you are about to take covers all 4 periods of AP World History. Good luck!</p>
-            </div>
-            <div class="inner-widget">
-                <h3>Quiz Contents:</h3>
+<head>
+    <link rel="stylesheet" href="../css/universal.css">
+    <link rel="stylesheet" href="../css/indexPage.css">
+    <title id="page-title">AP World History Quiz</title>  <!-- Or your desired title -->
+</head>
 
-                <table>
-                    <tr>
-                        <th>Section</th>
-                        <th>Questions</th>
-                        <th>Time</th>
-                    </tr>
-                    <tr>
-                        <td>Period 1</td>
-                        <td>10</td>
-                        <td>10 mins.</td>
-                    </tr>            
-                    <tr>
-                        <td>Period 2</td>
-                        <td>10</td>
-                        <td>10 mins.</td>
-                    </tr>                
-                    <tr>
-                        <td>Period 3</td>
-                        <td>10</td>
-                        <td>10 mins.</td>
-                    </tr>                
-                    <tr>
-                        <td>Period 4</td>
-                        <td>10</td>
-                        <td>10 mins.</td>
-                    </tr>
-                    <tr>
-                        <td>Total</td>
-                        <td>40</td>
-                        <td>40 mins.</td>
-                    </tr>
-                </table>
+<body>
+    <div id="top-bar">
+        <h1 class="quiz-title" id="quiz-title">Welcome to the Quiz!</h1>  <!-- Or a welcome message -->
+    </div>
 
-                <button onclick="window.location.href='html/quiz.html'">Start Quiz</button>
-            </div>
+    <div id="container">
+        <!-- Add content for your index page here, e.g., a description, start button, etc. -->
+        <p class="question-text">Test your knowledge of AP World History.</p>
+    </div>
 
-        </div>
-    </body>
+    <div id="footer">
+                <a href="quiz.html" class="start-button">Start Quiz</a>
+
+    </div>
+</body>
+
+<script type="module" src="/js/page/indexHTML.js"></script>
+
 </html>
